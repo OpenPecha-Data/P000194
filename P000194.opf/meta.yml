@@ -1,0 +1,39 @@
+ebook_metadata:
+  title: ༄༅། །འཕགས་མཆོག་སྤྱན་རས་གཟིགས་ཀྱི་བསྒོམ་བཟླས་འགྲོ་དོན་མཁའ་ཁྱབ་མའི་ཟིན་བྲིས་ཉུང་བསྡུས་འགྲོ་དོན་ཆར་རྒྱུན་ཞེས་བྱ་བ་བཞུགས་སོ།།
+    །།
+  authors:
+  - མཛད་པ་པོ། ཀརྨ་པ་ཆེན་པོ་བཅོ་ལྔ་པ།
+  sku: LEK-PHI-125
+  layers:
+  - book_title
+  - author
+  - chapter_title
+  - tsawa
+  - sabche
+web_metadata:
+  title:
+    en: A Beneficial Downpour:A Note on “Benefiting Sentient Beings in All Directions:A
+      Meditation Instruction on Chenrezig”
+    bo: འཕགས་མཆོག་སྤྱན་རས་གཟིགས་ཀྱི་བསྒོམ་བཟླས་འགྲོ་དོན་མཁའ་ཁྱབ་མའི་ཟིན་བྲིས་ཉུང་བསྡུས་འགྲོ་དོན་ཆར་རྒྱུན་ཞེས་བྱ་བ་བཞུགས་སོ།།
+  collection:
+    en: Lekshey Ling Philosophy Series–  Book 125
+    bo: ལེགས་བཤད་གླིང་རིགས་པའི་གཞུང་ལུགས།–  དེབ། ༡༢༥
+  author:
+    en: Fifteenth Karmapa Khakhyab Dorje
+    bo: ཀརྨ་པ་སྐུ་ཕྲེང་བཅོ་ལྔ་པ་མཁའ་ཁྱབ་རྡོ་རྗེ།
+  pusblisher:
+    en: Lekshey Ling Publications
+    bo: ཀརྨ་ལེགས་བཤད་གླིང།
+  sku: LEK-PHI-125
+  category:
+    en: Deity Practice
+    bo: བསྐྱེད་རིམ།
+  org:
+    bo: Timeless Treasuries
+    en: མཐའ་ཡས་དཔེ་མཛོད།
+  website: http://dharmacloud.tsadra.org
+  aquisition_data: '2019-07-18'
+  filename: LEK-PHI-125.epub
+  description:
+    en: ''
+    bo: ''
